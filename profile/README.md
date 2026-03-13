@@ -6,7 +6,7 @@ A collection of repositories dedicated to <b>AI agents, autonomous systems, and 
 
 <p align="center">
 
-[![Repositories](https://img.shields.io/badge/AI%20Agents%20Hub-Repositories-000000?style=for-the-badge)](https://github.com/AI-Agents-Hub?tab=repositories) [![Awesome AI Agents 2026](https://img.shields.io/badge/Awesome%20AI%20Agents-2026-blue?style=for-the-badge)](https://github.com/AI-Agents-Hub/awesome-ai-agents-2026)
+[![Repositories](https://img.shields.io/badge/AI%20Agents%20Hub-Repositories-000000?style=for-the-badge)](https://github.com/AI-Agents-Hubs/.github) [![Awesome AI Agents 2026](https://img.shields.io/badge/Awesome%20AI%20Agents-2026-blue?style=for-the-badge)](https://github.com/AI-Agents-Hubs/Awesome-AI-Agents-2026)
 
 
 
