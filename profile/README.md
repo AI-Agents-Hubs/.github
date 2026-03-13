@@ -6,12 +6,8 @@ A collection of repositories dedicated to <b>AI agents, autonomous systems, and 
 
 <p align="center">
 
-[![Repositories](https://img.shields.io/badge/AI%20Agents%20Hub-Repositories-000000?style=for-the-badge)](https://github.com/AI-Agents-Hubs/.github) [![Awesome AI Agents 2026](https://img.shields.io/badge/Awesome%20AI%20Agents-2026-blue?style=for-the-badge)](https://github.com/AI-Agents-Hubs/Awesome-AI-Agents-2026)
-
-
-
-
-
+[![Repositories](https://img.shields.io/badge/AI%20Agents%20Hub-Repositories-000000?style=for-the-badge)](https://github.com/AI-Agents-Hub?tab=repositories) [![Awesome AI Agents 2026](https://img.shields.io/badge/Awesome%20AI%20Agents-2026-blue?style=for-the-badge)](https://github.com/AI-Agents-Hub/awesome-ai-agents-2026) [![Download Repository](https://img.shields.io/badge/Download-Repository-success?style=for-the-badge)](https://github.com/AI-Agents-Hub/awesome-ai-agents-2026/archive/refs/heads/main.zip)
+ 
 
 
 
@@ -21,9 +17,15 @@ A collection of repositories dedicated to <b>AI agents, autonomous systems, and 
 
 ## 🧠 About
 
-**AI Agents Hub** is an open collection of repositories that curate tools, frameworks, and resources for building **AI-powered agents and automation systems**.
+**AI Agents Hub** is a collection of repositories focused on building and discovering modern tools for **AI agents, autonomous systems, and LLM-powered applications**.
 
-The organization focuses on the rapidly growing ecosystem of **LLM-powered agents**, autonomous workflows, and AI development tools.
+The organization aims to gather useful resources for developers working with:
+
+* AI agents
+* large language models (LLMs)
+* autonomous workflows
+* AI developer tooling
+* machine learning automation
 
 ---
 
@@ -31,7 +33,7 @@ The organization focuses on the rapidly growing ecosystem of **LLM-powered agent
 
 ### 🤖 awesome-ai-agents-2026
 
-A curated list of modern **AI agent frameworks, autonomous agents, and AI tools** used to build intelligent systems.
+A curated list of modern **AI agent frameworks, autonomous agents, and AI tools**.
 
 Topics covered in the repository:
 
@@ -42,21 +44,9 @@ Topics covered in the repository:
 
 ---
 
-## 🌐 Ecosystem
-
-The repositories in this organization aim to support developers working with:
-
-* **AI agents**
-* **large language models (LLMs)**
-* **autonomous workflows**
-* **AI developer tooling**
-* **machine learning automation**
-
----
-
 ## 🎯 Mission
 
-The mission of this organization is to:
+The goal of this organization is to:
 
 * curate high-quality AI agent resources
 * help developers discover useful frameworks
@@ -67,7 +57,7 @@ The mission of this organization is to:
 
 ## 🔮 Future Repositories
 
-Planned repositories for expanding the ecosystem:
+Planned repositories:
 
 * awesome-ai-agents
 * awesome-ai-tools
